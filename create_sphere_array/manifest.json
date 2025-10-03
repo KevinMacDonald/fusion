@@ -1,0 +1,9 @@
+{
+  "name": "Create Sphere Array",
+  "description": "Generates a 3D array of spheres with parametric spacing.",
+  "version": "1.0.0",
+  "author": "Kevin",
+  "supportedProducts": ["Fusion360"],
+  "toolType": "script",
+  "main": "main.py"
+}
